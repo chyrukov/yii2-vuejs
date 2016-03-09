@@ -37,7 +37,7 @@ If you discover any security related issues, please email :author_email instead 
 
 ## Credits
 
-- [:author_name][link-author]
+- [Pavel Agalecky][link-author]
 
 ## License
 
