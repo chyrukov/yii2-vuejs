@@ -25,15 +25,9 @@ echo $skeleton->echoPhrase('Hello, League!');
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
-## Testing
-
-``` bash
-$ composer test
-```
-
 ## Security
 
-If you discover any security related issues, please email :author_email instead of using the issue tracker.
+If you discover any security related issues, please email pavel.agalecky@gmail.com instead of using the issue tracker.
 
 ## Credits
 
