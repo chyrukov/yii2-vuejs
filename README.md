@@ -16,9 +16,10 @@ $ composer require omnilight/yii2-vuejs
 
 ## Usage
 
+Somewhere in your view
+
 ``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+VueJsAsset::register($this);
 ```
 
 ## Change log
